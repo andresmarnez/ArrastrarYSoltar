@@ -117,20 +117,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="papelera1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\papelera1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="cmnPapelera.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btBorraTodo2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        Qk02BAAAAAAAADYAAAAoAAAAEAAAABAAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA9/f3YPb2
+        9v/29vb/9vb2/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9vb2//b29v/29vb/9vb2//b2
+        9v8cM6b/HDOm/8rP5v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9vb2/+bn8O85TbH/p7HX7/b2
+        9v/29vb/DSah/w0mof8cM6b/ys/m//b29v8AAAAAAAAAAAAAAAAAAAAA9vb2/8rP5v8qQKz/go7M//b2
+        9v8AAAAA9vb2/w0mof8NJqH/DSah/xwzpv/n6fH/9vb2/wAAAAD29vb/9vb2/7zC4f8cM6b/R1q2//b2
+        9v8AAAAAAAAAAPb29v/Kz+b/HDOm/w0mof8NJqH/OU2x/+bn8O/29vb/9vb2/5+o1v8NJqH/KkCs/+Pk
+        8N/29vb/AAAAAAAAAAAAAAAA9vb2/8rP5v8cM6b/DSah/w0mof85TbH/5+nx/4KOzP8NJqH/HDOm/8rP
+        5v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/2dzr/zlNsf8NJqH/DSah/xwzpv8NJqH/DSah/5+o
+        1v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPb29v/n6fH/OU2x/w0mof8NJqH/DSah/2R0
+        wf/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/5+nx/zlNsf8NJqH/DSah/w0m
+        of9kdMH/9vb2//b29v8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/5+nx/zlNsf8NJqH/DSah/xwz
+        pv8NJqH/DSah/5+o1v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/5+nx/zlNsf8NJqH/DSah/xwz
+        pv/n6fH/c4HG/w0mof8NJqH/vMLh//b29v8AAAAAAAAAAAAAAAAAAAAA9vb2/5Cb0f8NJqH/DSah/w0m
+        of+8wuH/9vb2//b29v+fqNb/HDOm/xwzpv/Kz+b/9vb2/wAAAAAAAAAAAAAAAPb29v+Qm9H/DSah/w0m
+        of9zgcb/9vb2/wAAAAD29vb/9vb2/8rP5v8qQKz/OU2x/+bn8O/29vb/AAAAAAAAAAD29vb/5+nx/5Cb
+        0f+Qm9H/9vb2//b29v8AAAAAAAAAAAAAAAD29vb/5ufw74KOzP+8wuH/9vb2//b29v8AAAAAAAAAAPb2
+        9v/29vb/9vb2//b29v8AAAAAAAAAAAAAAAAAAAAAAAAAAPb29v/29vb/9vb2//b29v/29vb/AAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</value>
   </data>
-  <data name="papelera" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\papelera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Clearallrequests_8816_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Clearallrequests_8816_32.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Clearwindowcontent_6304_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Clearwindowcontent_6304_32.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="foto" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\foto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="btBorraTodo1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        Qk02BAAAAAAAADYAAAAoAAAAEAAAABAAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA9/f3YPb2
+        9v/29vb/9vb2/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9vb2//b29v/29vb/9vb2//b2
+        9v8cM6b/HDOm/8rP5v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9vb2/+bn8O85TbH/p7HX7/b2
+        9v/29vb/DSah/w0mof8cM6b/ys/m//b29v8AAAAAAAAAAAAAAAAAAAAA9vb2/8rP5v8qQKz/go7M//b2
+        9v8AAAAA9vb2/w0mof8NJqH/DSah/xwzpv/n6fH/9vb2/wAAAAD29vb/9vb2/7zC4f8cM6b/R1q2//b2
+        9v8AAAAAAAAAAPb29v/Kz+b/HDOm/w0mof8NJqH/OU2x/+bn8O/29vb/9vb2/5+o1v8NJqH/KkCs/+Pk
+        8N/29vb/AAAAAAAAAAAAAAAA9vb2/8rP5v8cM6b/DSah/w0mof85TbH/5+nx/4KOzP8NJqH/HDOm/8rP
+        5v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/2dzr/zlNsf8NJqH/DSah/xwzpv8NJqH/DSah/5+o
+        1v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPb29v/n6fH/OU2x/w0mof8NJqH/DSah/2R0
+        wf/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/5+nx/zlNsf8NJqH/DSah/w0m
+        of9kdMH/9vb2//b29v8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/5+nx/zlNsf8NJqH/DSah/xwz
+        pv8NJqH/DSah/5+o1v/29vb/AAAAAAAAAAAAAAAAAAAAAAAAAAD29vb/5+nx/zlNsf8NJqH/DSah/xwz
+        pv/n6fH/c4HG/w0mof8NJqH/vMLh//b29v8AAAAAAAAAAAAAAAAAAAAA9vb2/5Cb0f8NJqH/DSah/w0m
+        of+8wuH/9vb2//b29v+fqNb/HDOm/xwzpv/Kz+b/9vb2/wAAAAAAAAAAAAAAAPb29v+Qm9H/DSah/w0m
+        of9zgcb/9vb2/wAAAAD29vb/9vb2/8rP5v8qQKz/OU2x/+bn8O/29vb/AAAAAAAAAAD29vb/5+nx/5Cb
+        0f+Qm9H/9vb2//b29v8AAAAAAAAAAAAAAAD29vb/5ufw74KOzP+8wuH/9vb2//b29v8AAAAAAAAAAPb2
+        9v/29vb/9vb2//b29v8AAAAAAAAAAAAAAAAAAAAAAAAAAPb29v/29vb/9vb2//b29v/29vb/AAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</value>
   </data>
 </root>

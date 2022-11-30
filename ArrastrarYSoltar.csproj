@@ -46,14 +46,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="fmAcercade.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="fmAcercade.Designer.cs">
+      <DependentUpon>fmAcercade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmArrastrarSoltar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmArrastrarSoltar.Designer.cs">
+      <DependentUpon>fmArrastrarSoltar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmPapelera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmPapelera.Designer.cs">
+      <DependentUpon>fmPapelera.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fmAcercade.resx">
+      <DependentUpon>fmAcercade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmArrastrarSoltar.resx">
+      <DependentUpon>fmArrastrarSoltar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmPapelera.resx">
+      <DependentUpon>fmPapelera.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +97,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clearallrequests_8816_32.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clearwindowcontent_6304_32.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papelera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papelera1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

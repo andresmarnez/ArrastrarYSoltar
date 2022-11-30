@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace ArrastrarYSoltar
 {
-    public partial class Form1 : Form
+    public partial class fmAcercade : Form
     {
-        public Form1()
+        public fmAcercade()
         {
             InitializeComponent();
+        }
+
+        private void btAceptar_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
